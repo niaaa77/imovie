@@ -1,0 +1,6 @@
+{
+  "name": "SkillWallet - IMovies Project & Demo Hub",
+  "description": "SkillWallet project dashboard and interactive demo video walkthrough for IMovies movie ticket booking platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
